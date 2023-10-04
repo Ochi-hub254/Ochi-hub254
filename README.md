@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ochi-hub254
-- 👀 I’m interested in ...computer science
+- 👀 I’m interested in ...IT
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...+254794844343
